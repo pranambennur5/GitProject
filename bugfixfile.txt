@@ -1,2 +1,4 @@
 BugFix File
 First Change
+Second Change with working laptop
+
