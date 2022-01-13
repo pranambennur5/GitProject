@@ -599,10 +599,5 @@ Is token user related or project/repository related?
 
 Can we have different tokens for different repositories?
 
-Git Token:
-
-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
-
-
 
 
