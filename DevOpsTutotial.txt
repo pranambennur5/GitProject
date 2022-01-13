@@ -601,8 +601,4 @@ Can we have different tokens for different repositories?
 
 Git Token:
 
-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
-
-
-
-
+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
