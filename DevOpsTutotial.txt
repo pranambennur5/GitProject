@@ -599,7 +599,13 @@ Is token user related or project/repository related?
 
 Can we have different tokens for different repositories?
 
+<<<<<<< HEAD
 
 =======
 Git Token:
 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
+=======
+Git Token:
+
+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
+>>>>>>> dev-1.2.3
