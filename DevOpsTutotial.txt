@@ -597,7 +597,10 @@ Qns:
 ====
 Is token user related or project/repository related?
 
+<<<<<<< HEAD
 Can we have different tokens for different repositories?
 
 
 =======
+=======
+>>>>>>> 6a9506faa71d877fdaf83346b71e8bb0ea7d8838
